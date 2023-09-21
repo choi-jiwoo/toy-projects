@@ -1,0 +1,2 @@
+class EmptyUserInfoException(Exception):
+    pass
